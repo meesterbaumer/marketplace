@@ -1,11 +1,13 @@
 {
     "productTypes": [
         { "id": 1, "name": "Candy" },
-        { "id": 2, "name": "Electronics" }
+        { "id": 2, "name": "Electronics" },
+        { "id": 3, "name": "Good Electronics" }
     ],
     "products": [
         { "id": 1, "name": "Lollipop", "price": 1.49, "productTypeId": 1 },
-        { "id": 2, "name": "iPad", "price": 799.99, "productTypeId": 2 },
+        { "id": 6, "name": "iPad", "price": 750.00, "productTypeId": 3 },
+        { "id": 2, "name": "iPadPro", "price": 950.00, "productTypeId": 3 },
         { "id": 3, "name": "Snickers", "price": 1.79, "productTypeId": 1 },
         { "id": 4, "name": "Baby Ruth", "price": 1.79, "productTypeId": 1 },
         { "id": 5, "name": "Xbox One", "price": 216.49, "productTypeId": 2 }
